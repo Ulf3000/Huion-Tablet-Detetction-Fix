@@ -39,6 +39,9 @@ Example output:
 ```
 USB\VID_1A40&PID_0101\6&3365FBAF&0&14
 ```
+(or use devicemanager to find the usb hub on your tablet!)
+<img width="852" height="595" alt="grafik" src="https://github.com/user-attachments/assets/4871c9b5-1580-4e52-b811-82c0fcd3269e" />
+
 
 Your **port tail** is the last part:
 
@@ -72,10 +75,11 @@ If the tablet comes back, you’re good.
 
 ## Auto-run on failure (Task Scheduler)
 
+start task
+
 Create a **new task** (not “Basic Task”).
 
 ### General
-- ✅ Run whether user is logged on or not
 - ✅ Run with highest privileges
 
 ### Trigger
