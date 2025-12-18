@@ -43,7 +43,7 @@ USB\VID_1A40&PID_0101\6&3365FBAF&0&14
 <img width="852" height="595" alt="grafik" src="https://github.com/user-attachments/assets/4871c9b5-1580-4e52-b811-82c0fcd3269e" />
 
 
-Your **port tail** is the last part:
+Your **port tail** is the last part: (This is the usb port of your motherboard)
 
 ```
 &0&14
